@@ -1,0 +1,23 @@
+{
+  "name": "leg-bot",
+  "version": "1.0.0",
+  "description": "Scrapes the Washington legislator site for bill status ",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/s33r/leg-bot.git"
+  },
+  "author": "Aaron Willows (aaron@aaronwillows.com)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/s33r/leg-bot/issues"
+  },
+  "homepage": "https://github.com/s33r/leg-bot#readme",
+  "dependencies": {
+    "fs-extra": "^10.0.0",
+    "node-html-parser": "^5.1.0"
+  }
+}
